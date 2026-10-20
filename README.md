@@ -13,3 +13,4 @@
 | [docs/02-china-allusion-risk.md](./docs/02-china-allusion-risk.md) | 실존 국가 암시 리스크 검토와 대안 방향 | 검토 중 |
 | [docs/03-concept-alt-uncorrectable-record.md](./docs/03-concept-alt-uncorrectable-record.md) | 대안 컨셉 《정정할 수 없는 기록》 (사용자 제공안 원문) | 원문 보존 |
 | [docs/04-review-uncorrectable-record.md](./docs/04-review-uncorrectable-record.md) | 03안 검토 의견 (강점, 보완점, v0.1 비교) | 검토 완료 |
+| [docs/05-concept-v0.2.md](./docs/05-concept-v0.2.md) | **통합 컨셉안 v0.2 — 현재 최신안** (03 + 04 보완 + v0.1 일부) | 제안 |
