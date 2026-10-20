@@ -11,3 +11,5 @@
 | [docs/decision-log.md](./docs/decision-log.md) | **논의 기록 & 결정 로그 (여기부터 보세요)** | 계속 갱신 |
 | [docs/01-concept-v0.1.md](./docs/01-concept-v0.1.md) | 첫 컨셉안 (세계관, 주인공, 시스템, 스토리, 엔딩, 출시 전략) | 초안 |
 | [docs/02-china-allusion-risk.md](./docs/02-china-allusion-risk.md) | 실존 국가 암시 리스크 검토와 대안 방향 | 검토 중 |
+| [docs/03-concept-alt-uncorrectable-record.md](./docs/03-concept-alt-uncorrectable-record.md) | 대안 컨셉 《정정할 수 없는 기록》 (사용자 제공안 원문) | 원문 보존 |
+| [docs/04-review-uncorrectable-record.md](./docs/04-review-uncorrectable-record.md) | 03안 검토 의견 (강점, 보완점, v0.1 비교) | 검토 완료 |
