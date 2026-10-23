@@ -19,3 +19,4 @@
 | [docs/06-naming-candidates.md](./docs/06-naming-candidates.md) | 한글 표제 & 알고리즘 명칭 후보 | 결정 완료 |
 | [docs/07-concept-v0.3.md](./docs/07-concept-v0.3.md) | **《살아있음을 증명하시오》 통합 컨셉안 v0.3 — 현재 기준안** | 기준안 |
 | [docs/08-chapter1-scenario.md](./docs/08-chapter1-scenario.md) | 1장 「오류를 고치는 사람」 상세 시나리오 (데모 범위) | 초안 |
+| [docs/09-whisky-game-ideas.md](./docs/09-whisky-game-ideas.md) | (별개 프로젝트) 위스키 제조 게임 아이디어 브레인스토밍 | 아이디어 |
